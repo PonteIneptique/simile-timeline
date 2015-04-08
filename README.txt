@@ -1,3 +1,7 @@
+  Disclaimer 
+  -------------
+
+This software has not been developed by myself. I am just offering a convenient way to add it as a bower dependency.
 
 
 
